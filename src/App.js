@@ -2,10 +2,12 @@
  * @file App.js
  * @author Alejandro Alvarado
  * @brief Tic-Tac-Toe game in the browser
+ * @description
+ * Play Tic-Tac-Toe in the web browser! Based upon
+ * the official React documentation.
  */
 
 import { useState } from "react";
-import { use } from "react/cjs/react.production";
 
 /**
  * Represents an individual square component
